@@ -1,21 +1,21 @@
 <h1>Hangman Game - CLI Version</h1>
 
 This is a command-line implementation of the classic Hangman game written in Java. The game features:
-<ul>
-<li>Random Word Selection: The computer randomly selects a word for the player to guess.</li>
-<li>Word Guessing: The player attempts to guess the word by suggesting letters.</li>
-<li>Limited Guesses: The player has a certain number of guesses to figure out the word before the game ends.</li>
-</ul>
 
-Technologies Used
-<ul>
-<li>Java</li>
-</ul>
+✅Random Word Selection: The computer randomly selects a word for the player to guess.<br>
+✅Word Guessing: The player attempts to guess the word by suggesting letters.<br>
+✅Limited Guesses: The player has a certain number of guesses to figure out the word before the game ends.<br>
+
+
+Technologies Used<br>
+🔹 Java<br>
+
 
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/Hangman-CLI/assets/127003267/27db228e-9801-433e-8115-65b81a76370d)
+https://github.com/user-attachments/assets/8f9b274c-1e60-4c46-b963-0e76ebd525f2
+
 
 
 <br><br>
